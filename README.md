@@ -3,7 +3,7 @@
 
 
 {% hint style="info" %}
-This is just the documentation for Cakey Bot. You do NOT configure the bot from here. Visit [https://cakeybot.app/dashboard/public](https://cakeybot.app/dashboard/public) to manage your server.
+This is just the documentation for Cakey Bot. You do NOT configure the bot from here. Visit [https://cakeybot.app/dashboard/public](https://cakeybot.app/dashboard/public) to manage your server or visit [command info](https://docs.cakeybot.app/core/commands) for command and prefix information.
 {% endhint %}
 
 {% hint style="danger" %}
