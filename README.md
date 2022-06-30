@@ -22,7 +22,8 @@ You can directly contribute to our wiki/documentation by click the "Edit on GitH
 
 ## Premium/Donations
 
-Cakey Bot does have a "Premium" mode similar to some popular bots. However, the Cakey Bot team believes every feature should be free for all users, not just for those who pay. If you buy premium, you will gain access to higher limits and more customization options. You will also get a fancy colored role on our support discord to show off your donation. You can also do one-off donations via [paypal](https://www.paypal.com/paypalme2/CakeCraftNetwork) or by [patreon](https://www.patreon.com/cakeybot). All donations will go directly to Cakey Bot's hosting costs. If we make more money than the cost of hosting, the rest will go to other bot-related costs such as domains, ssl, advertising, community events and similar.
+The Cakey Bot team strongly believes that every feature should be freely available for all users, not just for those who pay. However, Cakey Bot does have a "Premium" mode available to those who wish to purchase this option for their server, and to those who donate to the project. You will also get a fancy colored role on our support discord to show off your donation. When you buy premium, you gain access to higher limits and more customization options.  There is also a "User Premium" option that allows you to favorite and use premium commands in any server using Cakey Bot. Premium options can be purchased [here](https://cakeybot.app/premium.html).
+Donations can be made via [paypal](https://www.paypal.com/paypalme2/CakeCraftNetwork) or by [patreon](https://www.patreon.com/cakeybot). All donations will go directly to covering Cakey Bot's hosting and maintenance costs. Funds in excess of these costs will go to other bot-related costs such as domains, ssl, advertising, community events and similar.
 
 ## Features
 
